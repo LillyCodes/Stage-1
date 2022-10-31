@@ -1,7 +1,7 @@
 import { RiMoreLine } from 'react-icons/ri';
 import { RiShareForwardLine } from 'react-icons/ri';
-// import { BsGithub } from 'react-icons/bs';
-// import { BsSlack } from 'react-icons/bs';
+import { BsGithub } from 'react-icons/bs';
+import { BsSlack } from 'react-icons/bs';
 import Avatar from './image/avatar.JPG'
 
 
@@ -79,23 +79,23 @@ function App() {
 
         <br></br>
         <p>
-          {/* <a
+           <a
             id='icon'
             href='https://github.com/LillyCodes'
             target='_blank'
             rel='noreferrer'
           >
             <BsGithub />
-          </a> */}
+          </a> 
 
-          {/* <a
+           <a
             id='icon'
             href='https://mail.zuri.team/l/1sw892IMOS9B69KON7AsFDQw/Tf7fWUnd763Xz1DsvpVMzLLQ/YUHM7P7OdX5hgAPlCp0Rsg'
             target='_blank'
             rel='noreferrer'
           >
             <BsSlack />
-          </a> */}
+          </a> 
 
         </p>
 
