@@ -92,7 +92,7 @@ function Contact() {
                     </div>
                     <div id="box__isAgree">
                         <label for="box__isAgree">
-                            You agree to providing your data to fayotheVillain who may contact
+                            You agree to providing your data to Lilian Williams who may contact
                             you.
                         </label>
                         <input type="checkbox" name="isAgree" id="checkbox" />
