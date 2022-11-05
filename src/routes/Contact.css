@@ -199,7 +199,7 @@ input:focus {
 }
 
 
-#box__isAgree {
+/* #box__isAgree {
     display: flex;
     flex-direction: row-reverse;
     justify-content: flex-end;
@@ -213,7 +213,7 @@ input:focus {
 
 #checkbox:focus {
     outline: solid 1px rgb(147, 194, 235);
-}
+} */
 
 #btn__submit {
     background-color: #1570ef;
