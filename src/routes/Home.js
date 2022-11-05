@@ -78,6 +78,11 @@ export default function Home() {
                     </a>
                 </button>
 
+                <button id="contact">
+                    <a href="/contact">Contact Me</a>
+                </button>
+
+
                 <br></br>
                 <p>
                     <a
